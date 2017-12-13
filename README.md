@@ -1,3 +1,3 @@
-# exercise_7
+# ROS Exercise
 
-ROS Exercise running on ROS Kinetic Kame and Ubuntu 16.04
+Running on ROS Kinetic Kame and Ubuntu 16.04

@@ -1,3 +1,8 @@
-# ROS Exercise
+## Setup
 
-Running on ROS Kinetic Kame and Ubuntu 16.04
+- Before running this program, please copy the package exercise_4 ```git clone```
+
+- Open new terminal, go to workspace '...\...\ros' 
+	- Build your workspace by running ```catkin_make```
+	- Then run ```source devel/setup.bash```
+	- run ```roslaunch exercise_7 exercise_7.launch```

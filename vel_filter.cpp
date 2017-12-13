@@ -16,7 +16,6 @@ void twistMessageFilter(const geometry_msgs::Twist& msg)
 		// Publish the message.
 		pub->publish(msg);
 
-		// Send a message to rosout with the details.
 		ROS_INFO_STREAM("filtered messaged, angular = " << msg.angular.z);
 
 	} else {

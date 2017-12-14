@@ -1,6 +1,6 @@
 ## Setup
 
-- Before running this program, please copy the package exercise_4 ```git clone https://github.com/priaditeguh/exercise_4.git```
+- Before running this program, in src directory please copy the package exercise_4 ```git clone https://github.com/priaditeguh/exercise_4.git``` 
 
 - Open new terminal, go to workspace '...\...\ros' 
 	- Build your workspace by running ```catkin_make```

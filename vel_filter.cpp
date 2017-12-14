@@ -40,9 +40,6 @@ int main (int argc, char **argv)
 	const std::string PARAM_NAME = "~max_ang_vel";
 	// const std::string PARAM_NAME = "/max_ang_vel";
 
-	// Let ROS take over .
-	// ros::spin();
-
 	// Loop at 2Hz until the node is shut down.
 	ros::Rate rate(2);
 
